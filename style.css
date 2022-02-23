@@ -1,3 +1,21 @@
-h1{ 
-    background-color: blue;
+.container{
+    margin-bottom: 100px;
+}
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.buy-now-button{
+    color: white;
+    background-color: #ff139f;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 30px;
+    cursor: pointer;
 }
