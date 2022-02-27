@@ -33,5 +33,19 @@
 }
 .cat1, .cat2, .cat3{
     border-radius:10px;
-
+}
+.card{
+    border: none;
+    box-shadow: 1px 1px 5px;
+    border-radius: 10px;
+}
+.backpack{
+    border-radius: 10px;
+}
+.subscribe{
+    height: 300px; 
+    background-color: #fceae8;
+}
+.subscribe #email{
+    width: 300px;
 }
